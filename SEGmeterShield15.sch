@@ -2185,8 +2185,8 @@ In this library the device names are the same as the pin names of the symbols, t
 <wire x1="261.62" y1="30.48" x2="261.62" y2="88.9" width="0.1524" layer="97" style="dashdot"/>
 <wire x1="281.94" y1="17.78" x2="281.94" y2="12.7" width="0.3048" layer="94"/>
 <wire x1="312.166" y1="17.78" x2="312.166" y2="12.7" width="0.3048" layer="94"/>
-<text x="259.08" y="20.32" size="3.048" layer="94">Smart Energy Groups SEGmeter v2.5</text>
-<text x="284.48" y="14.478" size="1.778" layer="94">V0.5 (03-07-2012)</text>
+<text x="259.08" y="20.32" size="3.048" layer="94">Smart Energy Groups SEGShield v1.5</text>
+<text x="284.48" y="14.478" size="1.778" layer="94">V1.5 (03-07-2012)</text>
 <text x="259.08" y="14.478" size="1.778" layer="94">foo</text>
 <text x="258.826" y="9.398" size="1.778" layer="94">(C)2012 Luke Weston</text>
 <text x="258.826" y="6.35" size="1.778" layer="94">Released under CERN Open Hardware License: www.ohwr.org/cernohl</text>
@@ -2196,8 +2196,8 @@ In this library the device names are the same as the pin names of the symbols, t
 <frame x1="256.54" y1="5.08" x2="360.68" y2="17.78" columns="0" rows="0" layer="94" border-left="no" border-top="no" border-right="no" border-bottom="no"/>
 <wire x1="71.12" y1="17.78" x2="71.12" y2="12.7" width="0.3048" layer="94"/>
 <wire x1="101.346" y1="17.78" x2="101.346" y2="12.7" width="0.3048" layer="94"/>
-<text x="48.26" y="20.32" size="3.048" layer="94">Smart Energy Groups SEGmeter v2.5</text>
-<text x="73.66" y="14.478" size="1.778" layer="94">V0.5 (03-07-2012)</text>
+<text x="48.26" y="20.32" size="3.048" layer="94">Smart Energy Groups SEGShield v1.5</text>
+<text x="73.66" y="14.478" size="1.778" layer="94">V1.5 (03-07-2012)</text>
 <text x="48.26" y="14.478" size="1.778" layer="94">foo</text>
 <text x="48.006" y="9.398" size="1.778" layer="94">(C)2012 Luke Weston</text>
 <text x="48.006" y="6.35" size="1.778" layer="94">Released under CERN Open Hardware License: www.ohwr.org/cernohl</text>
