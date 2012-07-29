@@ -135,7 +135,7 @@
 <wire x1="100.33" y1="76.835" x2="104.14" y2="73.025" width="0" layer="20" curve="-90"/>
 <wire x1="100.33" y1="0" x2="104.14" y2="3.81" width="0" layer="20" curve="90"/>
 <text x="73.9775" y="36.195" size="0.6096" layer="21" ratio="15">Hardware design by Luke Weston, 2012</text>
-<text x="7.3025" y="68.0244" size="2.1844" layer="21" ratio="10">SEGmeterShield v1.5</text>
+<text x="7.3025" y="68.0244" size="2.1844" layer="21" ratio="10">SEGmeterShield v2.5</text>
 <text x="7.3025" y="71.0406" size="1.778" layer="21" ratio="15">smartenergygroups.com</text>
 <wire x1="3.81" y1="0" x2="0" y2="3.81" width="0" layer="20" curve="-90"/>
 <wire x1="0" y1="3.81" x2="3.81" y2="0" width="0" layer="20" curve="90"/>
